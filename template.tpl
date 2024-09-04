@@ -269,7 +269,7 @@ const makeTableMap = require('makeTableMap');
 
 // Constants
 const LOG_PREFIX = '[Ripe / GTM] ';
-const JS_URL = "https://staging.storage.getripe.com/gtag/google-tag.js?apikey=" + data.ripeApiKey;
+const JS_URL = "https://staging.storage.getripe.com/gtag/google-tag.js?apiKey=" + data.ripeApiKey;
 const WRAPPER_NAMESPACE = 'Ripe';
 
 // Normalize the input and return it
