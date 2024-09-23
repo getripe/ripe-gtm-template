@@ -1,9 +1,9 @@
 homepage: "https://www.getripe.com"
 documentation: "https://docs.getripe.com/ripe"
 versions:
-  - sha: fc51fc748798c73ec71b026dc2a8ba36b51b5582
-    changeNotes: Change to loading script from production
-  - sha: 196e216f55079757df65b8dfb332167aad9c8213
-    changeNotes: Camel case api key parameter
+  - sha: 1543ce068c17aecbcabc3aebd8e45737f74784cd
+    changeNotes: |2
+      Change to loading script from production.
+      Camel case api key parameter.
   - sha: 904e3da26735416c06d225e04be1d03d984c2c17
     changeNotes: Initial release.
