@@ -1,6 +1,9 @@
 homepage: "https://www.getripe.com"
 documentation: "https://docs.getripe.com/ripe"
 versions:
+  - she: 376b938fc4f7316e17e355694cbb60fc5f010638
+    changeNotes: |3
+      Fix bug when tracking without properties
   - sha: 1543ce068c17aecbcabc3aebd8e45737f74784cd
     changeNotes: |2
       Change to loading script from production.
