@@ -291,7 +291,7 @@ const normalizeTable = (table, prop, val) => {
     });
     return makeTableMap(table, prop, val);
   }
-  return false;
+  return {};
 };
 
 // Print a log message and set the tag to failed state
